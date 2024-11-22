@@ -21,8 +21,13 @@ All samples can be run in one of two ways, depending on your preferences:
 - Using [conda](https://docs.conda.io/en/latest/) (a distribution of Python) and the [Quantum Development Kit](https://docs.microsoft.com/quantum) together
 - Using [Visual Studio Code devcontainers](https://code.visualstudio.com/docs/remote/containers) and [Docker](https://www.docker.com/) to manage software installation
 
-### Pipenv
-#### (under consulting)
+### Pipenv (checking progress ...)
+After installed base pipenv system, you should do the following command to add libraries.
+```
+pipenv install qutip
+pipenv install qsharp
+```
+I already checked "ch02".
 
 ### Anaconda
 
