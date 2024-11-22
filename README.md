@@ -28,7 +28,11 @@ pipenv install qutip
 pipenv install qsharp
 pipenv install qutip-qip
 ```
-I already checked "ch02".
+*Ref: https://qutip-qip.readthedocs.io/en/stable/installation.html
+
+I already checked "ch02" to "ch03".
+
+Now trying "ch04" & "ch05".
 
 ### Anaconda
 
