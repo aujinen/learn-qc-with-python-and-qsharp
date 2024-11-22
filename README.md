@@ -28,8 +28,8 @@ pipenv install qutip==4.76
 pipenv install qsharp
 pipenv install qutip-qip
 ```
-*Ref: https://qutip-qip.readthedocs.io/en/stable/installation.html
-*Ref: https://github.com/crazy4pi314/learn-qc-with-python-and-qsharp/issues/20
+* Ref: https://qutip-qip.readthedocs.io/en/stable/installation.html<br>
+* Ref: https://github.com/crazy4pi314/learn-qc-with-python-and-qsharp/issues/20
 
 I already checked "ch02" to "ch03".
 
