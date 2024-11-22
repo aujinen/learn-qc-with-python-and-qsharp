@@ -1,4 +1,6 @@
 # Learn Quantum Computing with Python and Q# <br> Sample Code #
+## Modified by H.Nishiyama 
+### For pipenv enviroment, without anaconda (conda) system.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/learn-qc-with-python-and-qsharp/main)
 [![](https://img.shields.io/badge/Q%23%20dependencies-0.17-blue)](https://docs.microsoft.com/en-us/quantum/resources/relnotes#version-0172105143879)
@@ -17,6 +19,9 @@ All samples can be run in one of two ways, depending on your preferences:
 
 - Using [conda](https://docs.conda.io/en/latest/) (a distribution of Python) and the [Quantum Development Kit](https://docs.microsoft.com/quantum) together
 - Using [Visual Studio Code devcontainers](https://code.visualstudio.com/docs/remote/containers) and [Docker](https://www.docker.com/) to manage software installation
+
+### Pipenv
+#### (under consulting)
 
 ### Anaconda
 
