@@ -26,6 +26,7 @@ After installed base pipenv system, you should do the following command to add l
 ```
 pipenv install qutip
 pipenv install qsharp
+pipenv install qutip-qip
 ```
 I already checked "ch02".
 
