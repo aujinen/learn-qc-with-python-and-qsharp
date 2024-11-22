@@ -1,6 +1,7 @@
 # Learn Quantum Computing with Python and Q# <br> Sample Code #
 ## Modified by H.Nishiyama 
 ### For pipenv enviroment, without anaconda (conda) system.
+### Changing code from "\*.py" to "\*.ipynb" for running with jupyter notebook or VS-Code environment.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crazy4pi314/learn-qc-with-python-and-qsharp/main)
 [![](https://img.shields.io/badge/Q%23%20dependencies-0.17-blue)](https://docs.microsoft.com/en-us/quantum/resources/relnotes#version-0172105143879)
